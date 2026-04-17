@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\drawable_bg_rating.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\drawable\\bg_rating.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\drawable_bg_edittext.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\layout_item_restaurant.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\layout\\item_restaurant.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\drawable_bg_tag.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\drawable\\bg_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\drawable_ic_food_logo.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\drawable\\ic_food_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\layout_item_food.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\layout\\item_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\layout_activity_order_tracking.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\layout\\activity_order_tracking.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\drawable_bg_quantity_selector.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\drawable\\bg_quantity_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sachi\\.gradle\\daemon\\8.5\\com.example.foodordering.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.foodordering.app-merged_res-40:/layout_layout_custom_toast.xml.flat",
+        "source": "com.example.foodordering.app-main-42:/layout/layout_custom_toast.xml"
+    }
+]

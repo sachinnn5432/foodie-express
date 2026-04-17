@@ -1,0 +1,344 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.foodordering"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <queries>
+13-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:10:5-39:15
+14        <intent>
+14-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:11:9-17:18
+15            <action android:name="android.intent.action.VIEW" />
+15-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:12:13-65
+15-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:12:21-62
+16
+17            <data
+17-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:14:13-16:38
+18                android:mimeType="*/*"
+18-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:15:17-39
+19                android:scheme="*" />
+19-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:16:17-35
+20        </intent>
+21        <intent>
+21-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:18:9-27:18
+22            <action android:name="android.intent.action.VIEW" />
+22-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:12:13-65
+22-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:12:21-62
+23
+24            <category android:name="android.intent.category.BROWSABLE" />
+24-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:21:13-74
+24-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:21:23-71
+25
+26            <data
+26-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:14:13-16:38
+27                android:host="pay"
+28                android:mimeType="*/*"
+28-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:15:17-39
+29                android:scheme="upi" />
+29-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:16:17-35
+30        </intent>
+31        <intent>
+31-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:28:9-30:18
+32            <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:22:17-69
+32-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:22:25-66
+33        </intent>
+34        <intent>
+34-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:31:9-35:18
+35            <action android:name="android.intent.action.SEND" />
+35-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:32:13-65
+35-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:32:21-62
+36
+37            <data android:mimeType="*/*" />
+37-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:14:13-16:38
+37-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:15:17-39
+38        </intent>
+39        <intent>
+39-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:36:9-38:18
+40            <action android:name="rzp.device_token.share" />
+40-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:37:13-61
+40-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:37:21-58
+41        </intent>
+42    </queries> <!-- Include required permissions for Google Maps API to run. -->
+43    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+43-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\sachi\.gradle\caches\transforms-3\fb197413814879afa87adb01bff87581\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+43-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\sachi\.gradle\caches\transforms-3\fb197413814879afa87adb01bff87581\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+44
+45    <uses-feature
+45-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\sachi\.gradle\caches\transforms-3\fb197413814879afa87adb01bff87581\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+46        android:glEsVersion="0x00020000"
+46-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\sachi\.gradle\caches\transforms-3\fb197413814879afa87adb01bff87581\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+47        android:required="true" />
+47-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\sachi\.gradle\caches\transforms-3\fb197413814879afa87adb01bff87581\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+48
+49    <permission
+49-->[androidx.core:core:1.12.0] C:\Users\sachi\.gradle\caches\transforms-3\4dde0fce54f6341b6da19770f76a2130\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+50        android:name="com.example.foodordering.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+50-->[androidx.core:core:1.12.0] C:\Users\sachi\.gradle\caches\transforms-3\4dde0fce54f6341b6da19770f76a2130\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+51        android:protectionLevel="signature" />
+51-->[androidx.core:core:1.12.0] C:\Users\sachi\.gradle\caches\transforms-3\4dde0fce54f6341b6da19770f76a2130\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+52
+53    <uses-permission android:name="com.example.foodordering.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- Normal permission, automatically granted on API 23+ -->
+53-->[androidx.core:core:1.12.0] C:\Users\sachi\.gradle\caches\transforms-3\4dde0fce54f6341b6da19770f76a2130\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+53-->[androidx.core:core:1.12.0] C:\Users\sachi\.gradle\caches\transforms-3\4dde0fce54f6341b6da19770f76a2130\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+54    <uses-permission android:name="android.permission.READ_BASIC_PHONE_STATE" />
+54-->[com.razorpay:core:1.0.10] C:\Users\sachi\.gradle\caches\transforms-3\104184d9af1b068e23424a2678ebc321\transformed\jetified-core-1.0.10\AndroidManifest.xml:10:5-81
+54-->[com.razorpay:core:1.0.10] C:\Users\sachi\.gradle\caches\transforms-3\104184d9af1b068e23424a2678ebc321\transformed\jetified-core-1.0.10\AndroidManifest.xml:10:22-78
+55
+56    <application
+56-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:7:5-39:19
+57        android:allowBackup="true"
+57-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:8:9-35
+58        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+58-->[androidx.core:core:1.12.0] C:\Users\sachi\.gradle\caches\transforms-3\4dde0fce54f6341b6da19770f76a2130\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+59        android:dataExtractionRules="@xml/data_extraction_rules"
+59-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:9:9-65
+60        android:debuggable="true"
+61        android:extractNativeLibs="false"
+62        android:fullBackupContent="@xml/backup_rules"
+62-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:10:9-54
+63        android:icon="@mipmap/ic_launcher"
+63-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:11:9-43
+64        android:label="@string/app_name"
+64-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:12:9-41
+65        android:roundIcon="@mipmap/ic_launcher_round"
+65-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:13:9-54
+66        android:supportsRtl="true"
+66-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:14:9-35
+67        android:theme="@style/Theme.OnlineFoodOrdering.NoActionBar" >
+67-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:15:9-68
+68        <activity
+68-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:18:9-25:20
+69            android:name="com.example.foodordering.SplashActivity"
+69-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:19:13-43
+70            android:exported="true" >
+70-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:20:13-36
+71            <intent-filter>
+71-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:21:13-24:29
+72                <action android:name="android.intent.action.MAIN" />
+72-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:22:17-69
+72-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:22:25-66
+73
+74                <category android:name="android.intent.category.LAUNCHER" />
+74-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:23:17-77
+74-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:23:27-74
+75            </intent-filter>
+76        </activity>
+77        <activity android:name="com.example.foodordering.LoginActivity" />
+77-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:27:9-51
+77-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:27:19-48
+78        <activity android:name="com.example.foodordering.SignupActivity" />
+78-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:28:9-52
+78-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:28:19-49
+79        <activity android:name="com.example.foodordering.MainActivity" />
+79-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:29:9-50
+79-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:29:19-47
+80        <activity android:name="com.example.foodordering.MenuActivity" />
+80-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:30:9-50
+80-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:30:19-47
+81        <activity android:name="com.example.foodordering.CartActivity" />
+81-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:31:9-50
+81-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:31:19-47
+82        <activity android:name="com.example.foodordering.CheckoutActivity" />
+82-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:32:9-54
+82-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:32:19-51
+83        <activity android:name="com.example.foodordering.OrderTrackingActivity" />
+83-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:33:9-59
+83-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:33:19-56
+84
+85        <meta-data
+85-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:35:9-37:55
+86            android:name="com.razorpay.ApiKey"
+86-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:36:13-47
+87            android:value="rzp_test_SeexT7isLxMrg5" />
+87-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:37:13-52
+88
+89        <provider
+89-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sachi\.gradle\caches\transforms-3\505b7080d3326db31ccc54c35d672fae\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+90            android:name="androidx.startup.InitializationProvider"
+90-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sachi\.gradle\caches\transforms-3\505b7080d3326db31ccc54c35d672fae\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+91            android:authorities="com.example.foodordering.androidx-startup"
+91-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sachi\.gradle\caches\transforms-3\505b7080d3326db31ccc54c35d672fae\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+92            android:exported="false" >
+92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sachi\.gradle\caches\transforms-3\505b7080d3326db31ccc54c35d672fae\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+93            <meta-data
+93-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sachi\.gradle\caches\transforms-3\505b7080d3326db31ccc54c35d672fae\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+94                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+94-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sachi\.gradle\caches\transforms-3\505b7080d3326db31ccc54c35d672fae\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+95                android:value="androidx.startup" />
+95-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sachi\.gradle\caches\transforms-3\505b7080d3326db31ccc54c35d672fae\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+96            <meta-data
+96-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:57:13-59:52
+97                android:name="com.razorpay.RazorpayInitializer"
+97-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:58:17-64
+98                android:value="androidx.startup" />
+98-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:59:17-49
+99            <meta-data
+99-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:60:13-62:52
+100                android:name="com.razorpay.CoreInitializer"
+100-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:61:17-60
+101                android:value="androidx.startup" />
+101-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:62:17-49
+102            <meta-data
+102-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\sachi\.gradle\caches\transforms-3\04b9e2d6051da9202825d434acaa3ca4\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+103                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+103-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\sachi\.gradle\caches\transforms-3\04b9e2d6051da9202825d434acaa3ca4\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+104                android:value="androidx.startup" />
+104-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\sachi\.gradle\caches\transforms-3\04b9e2d6051da9202825d434acaa3ca4\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+105            <meta-data
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+106                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+107                android:value="androidx.startup" />
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+108        </provider>
+109
+110        <activity
+110-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:42:9-50:20
+111            android:name="com.razorpay.CheckoutActivity"
+111-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:43:13-57
+112            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+112-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:44:13-83
+113            android:exported="false"
+113-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:45:13-37
+114            android:theme="@style/CheckoutTheme" >
+114-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:46:13-49
+115            <intent-filter>
+115-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:47:13-49:29
+116                <action android:name="android.intent.action.MAIN" />
+116-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:22:17-69
+116-->C:\Users\sachi\Desktop\Projects\Mobile application project\Online food ordering\app\src\main\AndroidManifest.xml:22:25-66
+117            </intent-filter>
+118        </activity>
+119        <activity
+119-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:65:9-68:75
+120            android:name="com.razorpay.MagicXActivity"
+120-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:66:13-55
+121            android:exported="false"
+121-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:67:13-37
+122            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+122-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:68:13-72
+123        <activity
+123-->[com.google.android.gms:play-services-auth:21.1.0] C:\Users\sachi\.gradle\caches\transforms-3\77e504eb99ddeea92ed9ba4623e99b30\transformed\jetified-play-services-auth-21.1.0\AndroidManifest.xml:23:9-27:75
+124            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+124-->[com.google.android.gms:play-services-auth:21.1.0] C:\Users\sachi\.gradle\caches\transforms-3\77e504eb99ddeea92ed9ba4623e99b30\transformed\jetified-play-services-auth-21.1.0\AndroidManifest.xml:24:13-93
+125            android:excludeFromRecents="true"
+125-->[com.google.android.gms:play-services-auth:21.1.0] C:\Users\sachi\.gradle\caches\transforms-3\77e504eb99ddeea92ed9ba4623e99b30\transformed\jetified-play-services-auth-21.1.0\AndroidManifest.xml:25:13-46
+126            android:exported="false"
+126-->[com.google.android.gms:play-services-auth:21.1.0] C:\Users\sachi\.gradle\caches\transforms-3\77e504eb99ddeea92ed9ba4623e99b30\transformed\jetified-play-services-auth-21.1.0\AndroidManifest.xml:26:13-37
+127            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+127-->[com.google.android.gms:play-services-auth:21.1.0] C:\Users\sachi\.gradle\caches\transforms-3\77e504eb99ddeea92ed9ba4623e99b30\transformed\jetified-play-services-auth-21.1.0\AndroidManifest.xml:27:13-72
+128        <!--
+129            Service handling Google Sign-In user revocation. For apps that do not integrate with
+130            Google Sign-In, this service will never be started.
+131        -->
+132        <service
+132-->[com.google.android.gms:play-services-auth:21.1.0] C:\Users\sachi\.gradle\caches\transforms-3\77e504eb99ddeea92ed9ba4623e99b30\transformed\jetified-play-services-auth-21.1.0\AndroidManifest.xml:33:9-37:51
+133            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+133-->[com.google.android.gms:play-services-auth:21.1.0] C:\Users\sachi\.gradle\caches\transforms-3\77e504eb99ddeea92ed9ba4623e99b30\transformed\jetified-play-services-auth-21.1.0\AndroidManifest.xml:34:13-89
+134            android:exported="true"
+134-->[com.google.android.gms:play-services-auth:21.1.0] C:\Users\sachi\.gradle\caches\transforms-3\77e504eb99ddeea92ed9ba4623e99b30\transformed\jetified-play-services-auth-21.1.0\AndroidManifest.xml:35:13-36
+135            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+135-->[com.google.android.gms:play-services-auth:21.1.0] C:\Users\sachi\.gradle\caches\transforms-3\77e504eb99ddeea92ed9ba4623e99b30\transformed\jetified-play-services-auth-21.1.0\AndroidManifest.xml:36:13-107
+136            android:visibleToInstantApps="true" /> <!-- Needs to be explicitly declared on P+ -->
+136-->[com.google.android.gms:play-services-auth:21.1.0] C:\Users\sachi\.gradle\caches\transforms-3\77e504eb99ddeea92ed9ba4623e99b30\transformed\jetified-play-services-auth-21.1.0\AndroidManifest.xml:37:13-48
+137        <uses-library
+137-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\sachi\.gradle\caches\transforms-3\fb197413814879afa87adb01bff87581\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+138            android:name="org.apache.http.legacy"
+138-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\sachi\.gradle\caches\transforms-3\fb197413814879afa87adb01bff87581\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+139            android:required="false" />
+139-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\sachi\.gradle\caches\transforms-3\fb197413814879afa87adb01bff87581\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+140
+141        <activity
+141-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\sachi\.gradle\caches\transforms-3\ff07ce85794d69202c6f633502668957\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:9-22:45
+142            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+142-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\sachi\.gradle\caches\transforms-3\ff07ce85794d69202c6f633502668957\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:19-85
+143            android:exported="false"
+143-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\sachi\.gradle\caches\transforms-3\ff07ce85794d69202c6f633502668957\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:22:19-43
+144            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+144-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\sachi\.gradle\caches\transforms-3\ff07ce85794d69202c6f633502668957\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:21:19-78
+145
+146        <meta-data
+146-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\sachi\.gradle\caches\transforms-3\c6def92f2459b5015c0e2b0bf13c198a\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+147            android:name="com.google.android.gms.version"
+147-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\sachi\.gradle\caches\transforms-3\c6def92f2459b5015c0e2b0bf13c198a\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+148            android:value="@integer/google_play_services_version" />
+148-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\sachi\.gradle\caches\transforms-3\c6def92f2459b5015c0e2b0bf13c198a\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+149
+150        <receiver
+150-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+151            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+151-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+152            android:directBootAware="false"
+152-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+153            android:enabled="true"
+153-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+154            android:exported="true"
+154-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+155            android:permission="android.permission.DUMP" >
+155-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+156            <intent-filter>
+156-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+157                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+157-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+157-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+158            </intent-filter>
+159            <intent-filter>
+159-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+160                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+160-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+160-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+161            </intent-filter>
+162            <intent-filter>
+162-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+163                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+163-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+163-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+164            </intent-filter>
+165            <intent-filter>
+165-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+166                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+166-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+166-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\a648c10143d2710c515970c288df9792\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+167            </intent-filter>
+168        </receiver>
+169
+170        <activity
+170-->[com.razorpay:core:1.0.10] C:\Users\sachi\.gradle\caches\transforms-3\104184d9af1b068e23424a2678ebc321\transformed\jetified-core-1.0.10\AndroidManifest.xml:13:9-27:20
+171            android:name="com.razorpay.DeeplinkActivity"
+171-->[com.razorpay:core:1.0.10] C:\Users\sachi\.gradle\caches\transforms-3\104184d9af1b068e23424a2678ebc321\transformed\jetified-core-1.0.10\AndroidManifest.xml:14:13-57
+172            android:exported="true"
+172-->[com.razorpay:core:1.0.10] C:\Users\sachi\.gradle\caches\transforms-3\104184d9af1b068e23424a2678ebc321\transformed\jetified-core-1.0.10\AndroidManifest.xml:15:13-36
+173            android:theme="@style/CheckoutTheme" >
+173-->[com.razorpay:core:1.0.10] C:\Users\sachi\.gradle\caches\transforms-3\104184d9af1b068e23424a2678ebc321\transformed\jetified-core-1.0.10\AndroidManifest.xml:16:13-49
+174            <intent-filter>
+174-->[com.razorpay:core:1.0.10] C:\Users\sachi\.gradle\caches\transforms-3\104184d9af1b068e23424a2678ebc321\transformed\jetified-core-1.0.10\AndroidManifest.xml:17:13-26:29
+175                <action android:name="android.intent.action.VIEW" />
+175-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:12:13-65
+175-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:12:21-62
+176
+177                <category android:name="android.intent.category.DEFAULT" />
+177-->[com.razorpay:core:1.0.10] C:\Users\sachi\.gradle\caches\transforms-3\104184d9af1b068e23424a2678ebc321\transformed\jetified-core-1.0.10\AndroidManifest.xml:20:17-76
+177-->[com.razorpay:core:1.0.10] C:\Users\sachi\.gradle\caches\transforms-3\104184d9af1b068e23424a2678ebc321\transformed\jetified-core-1.0.10\AndroidManifest.xml:20:27-73
+178                <category android:name="android.intent.category.BROWSABLE" />
+178-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:21:13-74
+178-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:21:23-71
+179
+180                <data
+180-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:14:13-16:38
+181                    android:host="com.example.foodordering"
+182                    android:scheme="razorpay" />
+182-->[com.razorpay:standard-core:1.7.10] C:\Users\sachi\.gradle\caches\transforms-3\c5c628d37a1a8a8f4386cf110446f15a\transformed\jetified-standard-core-1.7.10\AndroidManifest.xml:16:17-35
+183            </intent-filter>
+184        </activity>
+185    </application>
+186
+187</manifest>
